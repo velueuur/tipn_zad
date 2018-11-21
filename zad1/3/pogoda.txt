@@ -1,1 +1,1 @@
-Jest ładna pogoda
+Jest brzydka pogoda

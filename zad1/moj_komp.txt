@@ -2,4 +2,3 @@
 -ilosc pamieci RAM: 4,00GB
 -rodzaj i predkosc procesora: intel(R) core(TM) i3-3217U CPU @ 1.80GHz
 -system 64-bitowy
-moj komputer

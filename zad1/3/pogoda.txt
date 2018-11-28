@@ -1,1 +1,2 @@
-Jest ładna pogoda
+Jest ladna pogoda
+wcale nie jest
